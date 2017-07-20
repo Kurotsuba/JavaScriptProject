@@ -2,6 +2,8 @@
  * Created by Kurotsuba on 2017/7/19.
  */
 
+//TODO: add fisheye effect into this script
+
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
